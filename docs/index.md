@@ -1,64 +1,27 @@
-# NCU
+# Welcome to NCPA Competition Union's
 
 ---
 
-> Work hard, then amaze everyone
-努力，然后惊艳所有人
+## About NCU
+---
+    [Main Proposal of NCPA Competition Union](files/Main%20Proposal%20of%20NCPA%20Competition.md)
+    [It is blank, there is nothing inside](files/It%20is%20blank,%20there%20is%20nothing%20inside%2067b409d5d08646c283d4760ec3a4558d.md)
 
-- Outline
 
-    [Main Proposal of NCPA Competition Union](NCU%205dae50025c9a446e8e949d3cccd12a94/Main%20Proposal%20of%20NCPA%20Competition%20Union%20d7eb5312f1824b43923d065dd936a582.md)
 
-- Agreements
+## Information Area
 
-    [NCPA Competition Union Plan](NCU%205dae50025c9a446e8e949d3cccd12a94/NCPA%20Competition%20Union%20Plan%20dc4808994aa74adca5d164e57113f58c.md)
+---
+    [Information of Competition](files/Information%20of%20Competition.csv)
+    [Competition Handbook 2021-2022](files/Competition%20Handbook.md)
 
-    [It is blank, there is nothing inside](NCU%205dae50025c9a446e8e949d3cccd12a94/It%20is%20blank,%20there%20is%20nothing%20inside%2067b409d5d08646c283d4760ec3a4558d.md)
+---
+## Our Plans in the future
+1.There are plans, but I will write them here later
 
 ---
 
-# Working Area
-
----
-
-- Information Collection Space
-
-    [Information of Competition](NCU%205dae50025c9a446e8e949d3cccd12a94/Information%20of%20Competition%2078cf8b2307db4c1e91295f1c2a9fabe3.csv)
-
-- Competition Handbook 竞赛手册
-
-    [Competition Handbook 2021-2022](NCU%205dae50025c9a446e8e949d3cccd12a94/Competition%20Handbook%202021-2022%20a01d6c1550864cd7bb5a38ab3618cec2.md)
-
-- Statistics Space
-
-    [Statistics Reviewing](NCU%205dae50025c9a446e8e949d3cccd12a94/Statistics%20Reviewing%20ab672c8456e845f5ad8ac667f7cabf24.md)
-
-- Budgetary Space
-
-    [Competition Budget](NCU%205dae50025c9a446e8e949d3cccd12a94/Competition%20Budget%206cc3c44172ef48718b1087fcd5ed7470.md)
-
-    [Product Proposing](NCU%205dae50025c9a446e8e949d3cccd12a94/Product%20Proposing%201243e68ca3ab449498a11fcdd264779d.md)
-
-USACO and NHSDLC as examples
-(Information collection有template可以使用)
-日期找官网上找得到的，如果已经结束了要找2021-22学年的
-
----
-
-# Plans
-
----
-- Meeting Agenda
-
-    [Meeting Agenda](NCU%205dae50025c9a446e8e949d3cccd12a94/Meeting%20Agenda%200e1663f6b20e49beb3d9edf535aa2d81.csv)
-
-- Future Plans
-
-    [Working Path](NCU%205dae50025c9a446e8e949d3cccd12a94/Working%20Path%20d2089408576c49fdb44202ada7f9595b.csv)
-
----
-
-## Navigation
+### Navigation
 
 - Links
 
@@ -66,7 +29,7 @@ USACO and NHSDLC as examples
 
     [TST Tech Blog](https://sites.ncpachina.org/tst/)
 
-## Resources Collection
+### Resources Collection
 
 - Useful researching websites for competition
 
@@ -87,5 +50,3 @@ USACO and NHSDLC as examples
     [Google](http://google.com/)
 
     [White dunes, blue lagoons](https://www.bing.com/)
-
-    NO Baidu!
