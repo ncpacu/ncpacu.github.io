@@ -25,10 +25,6 @@
 
 ### Navigation
 
-- Links
-
-- Websites
-
 [TST Tech Blog](https://sites.ncpachina.org/tst/)
 
 ### Resources Collection
