@@ -1,3 +1,9 @@
+---
+layout: default
+title: NCPA Competition Union
+
+---
+
 # Welcome to NCPA Competition Union's
 
 ---
@@ -10,15 +16,19 @@
 
 
 
-## Information Area
 
+## Information Area
 ---
+
 [Information of Competition](files/Information%20of%20Competition.csv)
 
 [Competition Handbook 2021-2022](files/Competition%20Handbook.md)
 
----
+
+
+
 ## Our Plans in the future
+---
 1.There are plans, but I will write them here later
 
 ---
