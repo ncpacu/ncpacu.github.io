@@ -48,14 +48,6 @@ USACO and NHSDLC as examples
 # Plans
 
 ---
-
-- To-do List
-    - [ ]  Finish Main Proposal
-        - [ ]  Benefits to School
-        - [ ]  Benefits to
-        - [ ]  Finishing Job description proposal
-        - [ ]  Requirements to the
-    - [ ]  Finishing Meeting place&time proposal
 - Meeting Agenda
 
     [Meeting Agenda](NCU%205dae50025c9a446e8e949d3cccd12a94/Meeting%20Agenda%200e1663f6b20e49beb3d9edf535aa2d81.csv)
@@ -70,10 +62,6 @@ USACO and NHSDLC as examples
 
 - Links
 
-    ### Forms (Stats)
-
-    [Sign in to your account](https://www.office.com/launch/forms)
-
 - Websites
 
     [TST Tech Blog](https://sites.ncpachina.org/tst/)
@@ -84,7 +72,7 @@ USACO and NHSDLC as examples
 
     Most original place to collect information:
 
-    !!!**Official Websites!!!**
+    **!!!Official Websites!!!**
 
     Others:
 
