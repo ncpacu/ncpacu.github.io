@@ -1,3 +1,8 @@
+---
+layout: test
+---
+
+
 # Main Proposal of NCPA Competition Union
 
 # Basic Information
