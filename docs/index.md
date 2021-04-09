@@ -4,16 +4,18 @@
 
 ## About NCU
 ---
-    [Main Proposal of NCPA Competition Union](files/Main%20Proposal%20of%20NCPA%20Competition.md)
-    [It is blank, there is nothing inside](files/It%20is%20blank,%20there%20is%20nothing%20inside%2067b409d5d08646c283d4760ec3a4558d.md)
+[Main Proposal of NCPA Competition Union](files/Main%20Proposal%20of%20NCPA%20Competition.md)
+
+[It is blank, there is nothing inside](files/It%20is%20blank,%20there%20is%20nothing%20inside%2067b409d5d08646c283d4760ec3a4558d.md)
 
 
 
 ## Information Area
 
 ---
-    [Information of Competition](files/Information%20of%20Competition.csv)
-    [Competition Handbook 2021-2022](files/Competition%20Handbook.md)
+[Information of Competition](files/Information%20of%20Competition.csv)
+
+[Competition Handbook 2021-2022](files/Competition%20Handbook.md)
 
 ---
 ## Our Plans in the future
@@ -27,7 +29,7 @@
 
 - Websites
 
-    [TST Tech Blog](https://sites.ncpachina.org/tst/)
+[TST Tech Blog](https://sites.ncpachina.org/tst/)
 
 ### Resources Collection
 
@@ -39,7 +41,7 @@
 
     Others:
 
-    [bloom](https://www.webloom.cn/bloom_web/#/)
+    [Bloom](https://www.webloom.cn/bloom_web/#/)
 
     [Home - ASDAN CHINA 阿思丹学院-赋能受益终身的核心素养](http://www.seedasdan.org/)
 
