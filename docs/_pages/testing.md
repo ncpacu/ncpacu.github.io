@@ -307,16 +307,6 @@ Off-line math $$E=E°-\frac{R T}{n F} \ln Q$$
 <input type="number">
 <input type="password">
 
-```html
-<script>
-	alert("js running")
-</script>
-<!--note that sometimes this is disabled for security reason-->
-```
-
-<script>
-	alert("js running")
-</script>
 ## Embeds
 
 ```md
