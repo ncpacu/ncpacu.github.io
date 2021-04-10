@@ -14,7 +14,7 @@ multiline:
 
 Back to [[Playground]]
 
-This is a page intended to test the rendering compatibility of markdown compilers and styling. Note that syntax for the non-standard [[Obsidian]] markdown is included. Note that some code copied from Obsidian Help.
+This is a page intended to test the rendering compatibility of markdown compilers and the styling of the result thereof. Note that syntax for the non-standard [[Obsidian]] markdown is included; some markdown code segments are copied from Obsidian Help.
 
 If you see anything that look ugly, something is probably broken.
 
