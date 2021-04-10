@@ -12,6 +12,6 @@ kramdown:
 
 defaults:
   - scope:
-      path: "docs/**/*.md"
+      path: "**/*.md"
     values:
       layout: "test"
