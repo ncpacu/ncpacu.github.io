@@ -9,9 +9,21 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+title: My digital garden
+include: ['_pages']
+exclude: []
+
+collections:
+  pages:
+    output: true
+    permalink: /:slug
 
 defaults:
   - scope:
-      path: "docs/**/*.md"
+      path: "**/*.md"
     values:
       layout: "test"
+  - scope:
+      path: "_pages/*.md"
+    values:
+      layout: "default"
