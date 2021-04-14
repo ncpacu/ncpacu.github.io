@@ -10,7 +10,7 @@
 
 **Number of Students:** 10~20
 
-**Advisor:** Lily
+**Advisor:** Lily Lu
 
 **Place to meet:** Library Bubble Room
 
