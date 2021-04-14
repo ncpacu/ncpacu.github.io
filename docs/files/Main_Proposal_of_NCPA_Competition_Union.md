@@ -1,8 +1,3 @@
----
-layout: test
----
-
-
 # Main Proposal of NCPA Competition Union
 
 # Basic Information
@@ -15,7 +10,7 @@ layout: test
 
 **Number of Students:** 10~20
 
-**Advisor:** Lily Lu
+**Advisor:** Lily
 
 **Place to meet:** Library Bubble Room
 
@@ -23,21 +18,21 @@ layout: test
 
 **Founder:** Coco Gao
 
-**Co-founder:** Amily Xia, Anna Du, Ashley Shi, Jamie Liu, Kelly Jia, Lois Xie, Nia Dai, Skyler Hu
+**Co-founder:** Amily Xia, Anna Du, Ashley Shi, Jamie Liu, Kelly Jia, Leon Lu, Lois Xie, Nia Dai, Skyler Hu
 
 **Writer/Contributors of Proposal:** Coco Gao, Kelly Jia, Leon Lu
 
 # Purpose of the organization
 
-This organization helps NCPA students to have a wider perspective of scholarship competitions. Comprehensive competition experience is one of the most important parts in students' profiles, which is exactly what selective universities and colleges are looking for. For another, participating in competitions can help students get more prepared for college since this process will help them have a deeper comprehension of those fields and also potentially enhance their class performance (GPA) at school. As a matter of fact, compared to outstanding performances in athletic competitions that the school organizes for sports teams each year, NCPA now lacks formal organizations of competitions in academic fields. To fill the space of potential improvement in this aspect, this organization will provide students a way to know better about themselves, develop further in subject information and research, and finally support themselves to have higher performances in the application of undergraduate programs.
+This organization helps NCPA students to have a wider outlook for scholarship competitions. Comprehensive competition experience is an integral part of students' profiles, which is exactly what selective universities and colleges are looking for. For another, participating in competitions can help prepare students for college since academic competitions motivates them to better understand some of the complex topics in their field of interest, which can potentially enhance their class performance (GPA) at school. As a matter of fact, compared to outstanding performances in athletic competitions that the school organizes for sports teams each year, NCPA lacks formal organizations of academic competitions. To fill the space of potential improvement in this aspect, this organization will provide students a way to better understand themselves, develop further in subject information and research, and finally support themselves to have higher performances in the application of undergraduate programs.
 
-## Benefits for School
+## Benefits for NCPA
 
-NCPA's main propose for students are navigation, collaboration, planning and achievements. Academic Competitions are perfectly fit to those requirements. During each assembly, we hope our students can be proud of ourselves. This is why we promote student's honor, call out students. We want honor, we want students to achieve, so we need to give student opportunities to reach that. We need to show pre-NCPA students and parents the pulao proud! We have many competitors, if we don't compete, Pulaos will miss the shot of taking part in conversation of competition with other schools students. Also, achievements definitely help student's personal growth, which help them to have higher performance in colleges application. Those better performance helps NCPA have higher rank in International High School ranking, which is researched and made by pre-secondary students, parents and those companies.
+NCPA values students' ability to negotiate, collaborate, plan, and achieve. Academic competitions fit these purposes perfectly. When students are given the opportunities demonstrate these abilities through the means of academic competitions, they get recognised and can be proud of ourselves; their achievements, furthermore, can promote the student body's academic enthusiasm when shout outs are given in school assemblies. As NPCA students, we strive to become better selves, and those honors and achievements could serve as a way to prove our work and ambitions. This is what NCU is born for. We need to give students opportunities to reach their goals, and in turn we need to show our achievements and honors to these pre-NCPA students and parents the Pulao Prouds! We have many competitors schools, whose students excel at academic competitions, so if NCPA students don't even know about the existence of those academics competitions, they will miss the shot of joining in the community of academic competitors around China. Also, competitions definitely help students' personal growth. This will help them to have higher performance in college application and hence increase NCPA’s reputation among International High Schools, which will also help to gain high parent acceptance as college application is one of most important reasons why parents decide to send their children to NPCA.
 
-## Benefits for Students
+## Benefits for NCPA Students
 
-Academic competition experience is one of most important backgrounds of students' profile which top universities and colleges are looking for. Participating in competition gives students better opportunities to have colorful experiences their school life: their growth in every step of the competition, how to face the failure etc. The achievements of those competition describe the spirits of student's hard working and challenging overcoming.  In addition, competitions motivate students in academic research, solving problems in society (e.g. Girl Technovation, China Thinks Big), having deeper comprehension in APs learning (e.g. International Economics Olympiad, Physics Bowl etc.) 
+Academic competition experiences is one of most important backgrounds of students' profiles that top universities and colleges are looking for. Participating in competition gives students better opportunities to have a more colorful high school experience; this includes their aspiration to take challenges, the every step that they take towards their goals, the perseverance they demonstrate when facing difficulties, and much more. The achievements of those competitions reflect the spirits of students' hard work and commitment. In addition, competitions motivate students in academic research (e.g. Public Forum Debates), real-world problem solving (e.g. Girl Technovation, China Thinks Big), gaining deeper understandings of AP courses (e.g. International Economics Olympiad, Physics Bowl, Canadian Chemistry Contest, etc.), and the exploration of their personal interests (e.g. International Linguistics Olympiad).
 
 # How we maintain this organization
 
@@ -82,8 +77,6 @@ Academic competition experience is one of most important backgrounds of students
 
     **House:** Red House
 
-    **Email:** 22cgao@ncpachina.org
-
     **Name of roll:** President
 
 - **Student Leaders (Co-Founders):**
@@ -94,8 +87,6 @@ Academic competition experience is one of most important backgrounds of students
 
     **House:** Purple
 
-    **Email:** 2230040@ncpachina.org
-
     **Name of roll:** Vice-President
 
     **Name:** Kelly Jia
@@ -103,8 +94,6 @@ Academic competition experience is one of most important backgrounds of students
     **Grade:** 11
 
     **House:** Purple
-
-    **Email:** 2220040@ncpachina.org
 
     **Name of roll:** Statistics President
 
@@ -114,8 +103,6 @@ Academic competition experience is one of most important backgrounds of students
 
     **House:** Purple
 
-    **Email:** 2220056@ncpachina.org
-
     **Name of roll:** Budgetary President
 
     **Name:** Lois Xie
@@ -123,8 +110,6 @@ Academic competition experience is one of most important backgrounds of students
     **Grade:** 11
 
     **House:** Orange
-
-    **Email:** 22lxie@ncpachina.org
 
     **Name of roll:** Temporary Promotion President/Art Competition
 
@@ -134,8 +119,6 @@ Academic competition experience is one of most important backgrounds of students
 
     **House:** Red
 
-    **Email:** 2220068@
-
     **Name of roll:** Promotion Art Design Group Leader
 
     **Name:** Nia Dai
@@ -143,8 +126,6 @@ Academic competition experience is one of most important backgrounds of students
     **Grade:** 11
 
     **House:** Green
-
-    **Email:** 2220021@ncpachina.org
 
     **Name of roll:** Technology Competition Group Leader
 
@@ -154,8 +135,6 @@ Academic competition experience is one of most important backgrounds of students
 
     **House:** Red
 
-    **Email:** 2220082@ncpachina.org
-
     **Name of roll:** Promotion Article Group Leader
 
     **Name:** Skyler Hu
@@ -163,8 +142,6 @@ Academic competition experience is one of most important backgrounds of students
     **Grade:** 11
 
     **House:** Orange
-
-    **Email:** 2220033@ncpachina.org
 
     **Name of roll:** Information Collection President/Science Competition Group Leader
 
@@ -174,18 +151,24 @@ Academic competition experience is one of most important backgrounds of students
 
     **House:** Green
 
-    **Email:** 2230058@ncpachina.org
-
     **Name of roll:** Social Studies Group Leader
 
 # What we need (requirements)
 
 - Be officially Recognized as student organization (have record in powerschool)
 - Be able to promote at the beginning of next year assembly as student organization
-- Create outlook group account
+- Create email group account
 - Have team group in teams
+- A meeting place (Library Bobble Room)
+
+# What we hope to have
+
+- Faculty advisors for academic competitions with large number of attendees
+- Support from each department to promote academic competitions relevant to that subject
 
 # Budgetary requirements
 
 - Official Wechat account (yearly)
--
+- ASA budget
+- Coverage of school registration fees if applicable (not per-person registration fees)
+- An NCU account from the finance office
