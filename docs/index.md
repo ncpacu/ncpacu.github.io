@@ -10,9 +10,9 @@ title: NCPA Competition Union
 
 ## About NCU
 ---
-[Main Proposal of NCPA Competition Union](files/Main%20Proposal%20of%20NCPA%20Competition.md)
+[Main Proposal of NCPA Competition Union](files/Main_Proposal_of_NCPA_Competition.md)
 
-[It is blank, there is nothing inside](files/It%20is%20blank,%20there%20is%20nothing%20inside%2067b409d5d08646c283d4760ec3a4558d.md)
+[It is blank, there is nothing inside](files/It_is_blank,_there_is_nothing_inside_67b409d5d08646c283d4760ec3a4558d.md)
 
 
 
@@ -20,9 +20,9 @@ title: NCPA Competition Union
 ## Information Area
 ---
 
-[Information of Competition](files/Information%20of%20Competition.csv)
+[Information of Competition](files/Information_of_Competition.csv)
 
-[Competition Handbook 2021-2022](files/Competition%20Handbook.md)
+[Competition Handbook 2021-2022](files/Competition_Handbook.md)
 
 
 
