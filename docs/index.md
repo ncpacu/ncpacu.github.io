@@ -35,6 +35,8 @@ title: NCPA Competition Union
 
 ### Navigation
 
+[Math Land](math/math.md)
+
 [TST Tech Blog](https://sites.ncpachina.org/tst/)
 
 ### Resources Collection
