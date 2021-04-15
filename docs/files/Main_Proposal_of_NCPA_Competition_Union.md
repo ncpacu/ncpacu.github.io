@@ -1,3 +1,9 @@
+---
+layout: default
+title: NCPA Competition Union
+
+---
+
 # Main Proposal of NCPA Competition Union
 
 # Basic Information

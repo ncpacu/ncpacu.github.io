@@ -1,3 +1,9 @@
+---
+layout: default
+title: NCPA Competition Union
+
+---
+
 # Competition Handbook 2021-2022
 
 # Index 目录
