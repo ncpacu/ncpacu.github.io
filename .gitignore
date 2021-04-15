@@ -4,3 +4,7 @@ docs/.jekyll-cache
 docs/.jekyll-metadata
 docs/vendor
 docs/.DS_Store
+docs/math/.DS_Store
+docs/_layouts/.DS_Store
+docs/files/.DS_Store
+.DS_Store
