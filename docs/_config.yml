@@ -30,7 +30,3 @@ defaults:
       path: "_pages/*.md"
     values:
       layout: "default"
-  - scope:
-      path: "_posts/*.md"
-    values:
-      layout: "post"  
