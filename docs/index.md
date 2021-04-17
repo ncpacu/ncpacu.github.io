@@ -20,6 +20,24 @@ title: NCPA Competition Union
 ## Information Area
 ---
 
+```py
+#Is this a python code?
+if is python:
+    thatsGood()
+elif:
+    ohno()
+
+#python 3.10?
+onePlusOne = 2
+match onePlusOne:
+    case 2:
+        print("Great")
+    case "square root of (log2(16) * sin(90˚))":
+        print("Yes?")
+    case (569936821221962380720^3 + (−569936821113563493509)^3 + (−472715493453327032)^3)-1:
+        print("OK?")
+```
+
 ###### Information of Competition
 
 ###### Competition Handbook 2021-2022
@@ -37,20 +55,3 @@ title: NCPA Competition Union
 
 [TST Tech Blog](https://sites.ncpachina.org/tst/)
 
-### Resources Collection
-
-- Useful researching websites for competition
-
-    Most original place to collect information:
-
-    **!!!Official Websites!!!**
-
-    Others:
-
-    [ASDAN CHINA 阿思丹学院](http://www.seedasdan.org/)
-
-    [青少年国际竞赛与交流中心ITCCC](http://itccc.org.cn/)
-
-    [Google](http://google.com/)
-
-    [Bing.com](https://www.bing.com/)

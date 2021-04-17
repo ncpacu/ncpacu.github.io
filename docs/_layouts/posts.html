@@ -3,8 +3,12 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-<p>
-  {{ page.date | date_to_string }} - {{ page.author }}
-</p>
+<small>
+  {{ page.date | date: "%-d %B %Y" }} - {{ page.author }}
+</small>
 
 {{ content }}
+
+{% if page.tags %}
+<small>Tags: <em><< page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
