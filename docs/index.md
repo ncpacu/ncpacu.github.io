@@ -20,11 +20,9 @@ title: NCPA Competition Union
 ## Information Area
 ---
 
-[Information of Competition](files/Information_of_Competition.csv)
+###### Information of Competition
 
-[Competition Handbook 2021-2022](files/Competition_Handbook.md)
-
-
+###### Competition Handbook 2021-2022
 
 
 ## Our Plans in the future
