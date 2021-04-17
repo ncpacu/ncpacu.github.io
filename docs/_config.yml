@@ -9,7 +9,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-title: My digital garden
+title: NCPACU
 include: ['_pages']
 exclude: []
 
