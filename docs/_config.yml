@@ -9,9 +9,12 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-title: My digital garden
+title: NCPACU
+description: This organization helps NCPA students to have a wider outlook for scholarship competitions. Comprehensive competition experience is an integral part of students' profiles, which is exactly what selective universities and colleges are looking for.
 include: ['_pages']
 exclude: []
+
+logo: "imgs/logo.png"
 
 collections:
   pages:
@@ -27,3 +30,7 @@ defaults:
       path: "_pages/*.md"
     values:
       layout: "default"
+  - scope:
+      path: "_posts/*.md"
+    values:
+      layout: "post"  
