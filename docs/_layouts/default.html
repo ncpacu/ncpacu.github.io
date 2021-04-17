@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
-    <link rel="icon" href="https://img.icons8.com/cotton/64/000000/electricity.png">
-    <link rel="stylesheet" href="/assets/css/style.css?v=1f41dfb826e07530ef195d8ef8b7d706c001733d">
+    <link rel="icon" href="../imgs/logo.png">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--<link rel="stylesheet" href="/assets/css/style.css?v=1f41dfb826e07530ef195d8ef8b7d706c001733d">-->
+    
   </head>
   <body>
     <div class="wrapper">
@@ -26,6 +28,6 @@
         <p><small>This is a test page of NCU, created by LZDXN</small></p>
       </footer>
     </div>
-    <script src="/assets/js/scale.fix.js"></script>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
