@@ -1,28 +1,16 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/_layouts/assets/css/style.css?v=1f41dfb826e07530ef195d8ef8b7d706c001733d">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="https://ncpacu.github.io/">NCPA Competition Union</a></h1>
-        <blockquote>
-        <p class="view">Work hard, then amaze everyone<br/>
-        努力，然后干碎所有人</p>
-        </blockquote> 
-      </header>
-      <section>
-        {{ content }}
-      </section>
-      <footer>
-        <p><small>Post page, if you see this means I am sucessfully created it </br> --created by LZDXN</small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-  </body>
-</html>
+---
+layout: default
+title: NCU Posts
+---
+
+<h1>Recent Posts</h1>
+
+<ul>
+  <li>
+    <h3>{{ post.date | date_to_string}}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    {{ post.excerpt }}
+  </li>
+  {% endfor %}
+</ul>
