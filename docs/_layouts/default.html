@@ -13,7 +13,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="https://ncpacu.github.io/">NCPA Competition Union</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">NCPA Competition Union</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
         <blockquote>
         <p class="view">Work hard, then crash everyone<br/>
         努力，然后干碎所有人</p>
