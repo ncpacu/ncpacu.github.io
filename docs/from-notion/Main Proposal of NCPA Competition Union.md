@@ -23,7 +23,7 @@ layout: test
 
 **Founder:** Coco Gao
 
-**Co-founder:** Amily Xia, Anna Du, Ashley Shi, Jamie Liu, Kelly Jia, Lois Xie, Nia Dai, Skyler Hu
+**Co-founder:** Amily Xia, Anna Du, Ashley Shi, Jamie Liu, Lois Xie, Skyler Hu
 
 **Writer/Contributors of Proposal:** Coco Gao, Kelly Jia, Leon Lu
 
@@ -98,16 +98,6 @@ Academic competition experience is one of most important backgrounds of students
 
     **Name of roll:** Vice-President
 
-    **Name:** Kelly Jia
-
-    **Grade:** 11
-
-    **House:** Purple
-
-    **Email:** 2220040@ncpachina.org
-
-    **Name of roll:** Statistics President
-
     **Name:** Leon Lu
 
     **Grade:** 11
@@ -137,16 +127,6 @@ Academic competition experience is one of most important backgrounds of students
     **Email:** 2220068@
 
     **Name of roll:** Promotion Art Design Group Leader
-
-    **Name:** Nia Dai
-
-    **Grade:** 11
-
-    **House:** Green
-
-    **Email:** 2220021@ncpachina.org
-
-    **Name of roll:** Technology Competition Group Leader
 
     **Name:** Amily Xia
 
