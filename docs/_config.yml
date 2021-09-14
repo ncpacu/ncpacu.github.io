@@ -1,32 +1,37 @@
-theme: jekyll-theme-minimal
-lsi: false
 safe: true
-incremental: false
+
+# Dependencies
+#markdown: redcarpet
 highlighter: rouge
-gist:
-  noscript: false
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+# Permalinks
+permalink: pretty
+relative_permalinks: true
+
+# Setup
 title: NCPACU
 description: This organization helps NCPA students to have a wider outlook for scholarship competitions. Comprehensive competition experience is an integral part of students' profiles, which is exactly what selective universities and colleges are looking for.
+baseurl: /
 include: ['_pages']
 exclude: []
 
-logo: "imgs/logo.png"
+#logo: "imgs/logo.png"
+logo: "imgs/gugugu.jpg"
 
-collections:
-  pages:
-    output: true
-    permalink: /:slug
+#collections:
+#  pages:
+#    output: true
+#    permalink: /:slug
 
-defaults:
-  - scope:
-      path: "**/*.md"
-    values:
-      layout: "test"
-  - scope:
-      path: "_pages/*.md"
-    values:
+#defaults:
+#  - scope:
+#      path: "**/*.md"
+#    values:
+#      layout: "test"
+#  - scope:
+#      path: "_pages/*.md"
+#   values:
       layout: "default"
